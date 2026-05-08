@@ -1,0 +1,14 @@
+# Ignore saved models and cache
+__pycache__/
+*.h5
+*.keras
+*.pyc
+
+# Ignore dataset folders
+Data/
+data_split/
+saved_model/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
